@@ -1,7 +1,7 @@
 //electron
 
 
-import './index.css'
+import './WinBar.css'
 import logo from '../../assets/logo.png'
 import min from '../../assets/min.svg'
 import close from '../../assets/close.svg'

@@ -3,7 +3,7 @@ const fastify = require('fastify')({ logger: true })
 
 const createWindow = () => {
     const win = new BrowserWindow({
-        width: 834,
+        width: 816,
         height: 600,
         webPreferences:{
             nodeIntegration: true
